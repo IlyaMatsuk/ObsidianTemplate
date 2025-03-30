@@ -1,8 +1,10 @@
 # Obsidian
-My knowledge base
+
+Obsidian knowledge base
 
 Context:
-- [KnowledgeBase](KnowledgeBase.md)
+
+- [Examples of features](Base/Examples%20of%20features.md)
 
 The Knowledge base structure:
 
@@ -15,7 +17,9 @@ The Knowledge base structure:
 Tags:
 
 #todo - task that I need to do
+
 #fixme - note should be fixed
+
 #unlinked - note should be linked to parent note
 
 ![](Files/obsidian-logo.png)

@@ -16,4 +16,4 @@ dates:: 2023-03-19 11:22
 
 ## Links
 
-<- Back to [[KnowledgeBase]]
+<- Back to [[Examples of features]]
